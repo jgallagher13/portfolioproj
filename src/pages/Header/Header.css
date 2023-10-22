@@ -1,0 +1,20 @@
+header {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  min-height: 100vh;
+}
+
+p {
+  display: inline-block;
+  padding: 5px;
+}
+
+.icons, .briefcase {
+  height: 55px;
+  width: 55px;
+}
+
+.role {
+  font-size: 24px;
+}

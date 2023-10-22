@@ -1,0 +1,24 @@
+.skill-icon {
+    width: auto;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid gold;
+
+  }
+
+
+.skills {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr); /* 4 columns */
+    grid-template-rows: repeat(2, 1fr); /* 2 rows */
+    gap: 10px; 
+  }
+
+.summary {
+  border: 2px white solid;
+}
+
+h2 {
+  padding-right: 7px;
+  padding-left: 7px;
+}
