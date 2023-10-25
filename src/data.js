@@ -26,7 +26,7 @@ export const data = {
       {
         "skillname":"HTML",
         "class":"three",
-        "icon":"/images/html.png"
+        "icon":"images/html.png"
       },
       {
         "skillname":"CSS",
