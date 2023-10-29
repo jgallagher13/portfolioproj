@@ -1,10 +1,11 @@
 import './Header.css';
-
+import '../../../'
 export default function Header({ data }) {
   return (
     <header id="home">
       <div>
         <div>
+          <p><img src='../../../images/css.png' /></p>
           <h1>{data.name}</h1>
           <h3 className="role">{data.role}</h3>
           <h3>{data.roleDescription}</h3>
