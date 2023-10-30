@@ -1,5 +1,5 @@
 import './Header.css';
-import '../../../'
+
 export default function Header({ data }) {
   return (
     <header id="home">
